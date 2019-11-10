@@ -1,0 +1,20 @@
+C:\Users\Marko Pezer\Desktop\DE_Computational_Practicum\bin\Debug\DE_Computational_Practicum.exe.config
+C:\Users\Marko Pezer\Desktop\DE_Computational_Practicum\bin\Debug\DE_Computational_Practicum.exe
+C:\Users\Marko Pezer\Desktop\DE_Computational_Practicum\bin\Debug\DE_Computational_Practicum.pdb
+C:\Users\Marko Pezer\Desktop\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.csprojAssemblyReference.cache
+C:\Users\Marko Pezer\Desktop\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.Form1.resources
+C:\Users\Marko Pezer\Desktop\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.Properties.Resources.resources
+C:\Users\Marko Pezer\Desktop\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.csproj.GenerateResource.cache
+C:\Users\Marko Pezer\Desktop\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.csproj.CoreCompileInputs.cache
+C:\Users\Marko Pezer\Desktop\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.exe
+C:\Users\Marko Pezer\Desktop\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.pdb
+C:\Users\Marko Pezer\Desktop\DE Practicum\DE_Computational_Practicum\bin\Debug\DE_Computational_Practicum.exe.config
+C:\Users\Marko Pezer\Desktop\DE Practicum\DE_Computational_Practicum\bin\Debug\DE_Computational_Practicum.exe
+C:\Users\Marko Pezer\Desktop\DE Practicum\DE_Computational_Practicum\bin\Debug\DE_Computational_Practicum.pdb
+C:\Users\Marko Pezer\Desktop\DE Practicum\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.csprojAssemblyReference.cache
+C:\Users\Marko Pezer\Desktop\DE Practicum\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.Form1.resources
+C:\Users\Marko Pezer\Desktop\DE Practicum\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.Properties.Resources.resources
+C:\Users\Marko Pezer\Desktop\DE Practicum\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.csproj.GenerateResource.cache
+C:\Users\Marko Pezer\Desktop\DE Practicum\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.csproj.CoreCompileInputs.cache
+C:\Users\Marko Pezer\Desktop\DE Practicum\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.exe
+C:\Users\Marko Pezer\Desktop\DE Practicum\DE_Computational_Practicum\obj\Debug\DE_Computational_Practicum.pdb
